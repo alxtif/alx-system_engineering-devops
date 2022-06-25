@@ -1,0 +1,2 @@
+#!/bin/bash _working_directory
+pwd _working_directory
